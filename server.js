@@ -10,8 +10,7 @@ app.use(express.json());
 
 //import routing
 const flashcardsRoutes = require('./routes/flashcards');
-
-app.use('routes\flashcards.js', flashcardsRoutes)
+app.use('/api/flashcards', flashcardsRoutes);
 
 //test route
 app.get('/', (req, res) => {

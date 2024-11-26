@@ -7,3 +7,5 @@ npm install -g nodemon
 
 install dotenv for environment variable management (API)
 npm install dotenv
+
+using thunderclient for route testing
