@@ -4,7 +4,7 @@ desktop web and mobile application.
 prompt ai api with lecture and unit notes/info, flashcards are generated.
 
 
-DEV NOTES (ONGOING0
+DEV NOTES (ONGOING)
 installed express for web server framework
 npm install express
 
